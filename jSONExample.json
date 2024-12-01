@@ -1,0 +1,309 @@
+{
+    "ad_blue_range": 4500,
+    "capabilities": {
+        "capabilities": [
+            {
+                "id": "ACCESS",
+                "statuses": []
+            },
+            {
+                "id": "DEALER_APPOINTMENT",
+                "statuses": [
+                    "INITIALLY_DISABLED"
+                ]
+            },
+            {
+                "id": "EMERGENCY_CALLING",
+                "statuses": []
+            },
+            {
+                "id": "HONK_AND_FLASH",
+                "statuses": []
+            },
+            {
+                "id": "MEASUREMENTS",
+                "statuses": []
+            },
+            {
+                "id": "PARKING_POSITION",
+                "statuses": []
+            },
+            {
+                "id": "ROADSIDE_ASSISTANT",
+                "statuses": []
+            },
+            {
+                "id": "STATE",
+                "statuses": []
+            },
+            {
+                "id": "THEFT_WARNING",
+                "statuses": []
+            },
+            {
+                "id": "TRIP_STATISTICS",
+                "statuses": []
+            },
+            {
+                "id": "VEHICLE_HEALTH_INSPECTION",
+                "statuses": []
+            },
+            {
+                "id": "WARNING_LIGHTS",
+                "statuses": []
+            },
+            {
+                "id": "VEHICLE_WAKE_UP",
+                "statuses": []
+            },
+            {
+                "id": "PAY_TO_FUEL",
+                "statuses": []
+            },
+            {
+                "id": "CUBIC",
+                "statuses": []
+            },
+            {
+                "id": "SUBSCRIPTIONS",
+                "statuses": []
+            },
+            {
+                "id": "CAR_FEEDBACK",
+                "statuses": []
+            },
+            {
+                "id": "DESTINATIONS",
+                "statuses": []
+            },
+            {
+                "id": "ICE_VEHICLE_RTS",
+                "statuses": []
+            },
+            {
+                "id": "OUTSIDE_TEMPERATURE",
+                "statuses": []
+            },
+            {
+                "id": "DIGICERT",
+                "statuses": []
+            },
+            {
+                "id": "VEHICLE_HEALTH_WARNINGS",
+                "statuses": []
+            },
+            {
+                "id": "PAY_TO_PARK",
+                "statuses": []
+            },
+            {
+                "id": "ONLINE_SPEECH_GPS",
+                "statuses": []
+            },
+            {
+                "id": "FUEL_STATUS",
+                "statuses": []
+            },
+            {
+                "id": "SERVICE_PARTNER",
+                "statuses": []
+            },
+            {
+                "id": "ROUTE_IMPORT",
+                "statuses": []
+            },
+            {
+                "id": "MISUSE_PROTECTION",
+                "statuses": []
+            },
+            {
+                "id": "CARE_AND_INSURANCE",
+                "statuses": []
+            },
+            {
+                "id": "EXTENDED_CHARGING_SETTINGS",
+                "statuses": []
+            }
+        ]
+    },
+    "captured_at": "2024-11-16T16:36:38+00:00",
+    "car_captured_timestamp": "2024-11-16T16:36:41+00:00",
+    "car_type": "diesel",
+    "composite_renders": [
+        {
+            "layers": [
+                {
+                    "order": 0,
+                    "type": "REAL",
+                    "url": "https://iprenders.blob.core.windows.net/baseps7v25100002/1Z1Zre9znyFTtA7UhkaDYRCM3lW-4ovWKM6OSzHrRYc_Cs2dE-R7Ks.DEn5MWiQB1Hxlu3oq-A-19201080dayvext_side1080.png?v=638651938720000000",
+                    "view_point": "exterior_side"
+                }
+            ],
+            "view_type": "UNMODIFIED_EXTERIOR_SIDE"
+        },
+        {
+            "layers": [
+                {
+                    "order": 0,
+                    "type": "REAL",
+                    "url": "https://iprenders.blob.core.windows.net/baseps7v25100002/1Z1Zre9znyFTtA7UhkaDYRCM3lW-4ovWKM6OSzHrRYc_Cs2dE-R7Ks.DEn5MWiQB1Hxlu3oq-A-19201080dayvext_side1080.png?v=638651938720000000",
+                    "view_point": "exterior_side"
+                }
+            ],
+            "view_type": "HOME"
+        },
+        {
+            "layers": [
+                {
+                    "order": 0,
+                    "type": "REAL",
+                    "url": "https://iprenders.blob.core.windows.net/baseps7v25100002/1Z1Zre9znyFTtA7UhkaDYRCM3lW-4ovWKM6OSzHrRYc_Cs2dE-R7Ks.DEn5MWiQB1Hxlu3oq-A-19201080dayvext_side1080.png?v=638651938720000000",
+                    "view_point": "exterior_side"
+                },
+                {
+                    "order": 1,
+                    "type": "REAL",
+                    "url": "https://mspgwlivestorage.blob.core.windows.net/renders/cables/kodiaq_PS_cable_charging_light_v1.png",
+                    "view_point": "exterior_side"
+                }
+            ],
+            "view_type": "CHARGING_LIGHT"
+        },
+        {
+            "layers": [
+                {
+                    "order": 0,
+                    "type": "REAL",
+                    "url": "https://iprenders.blob.core.windows.net/baseps7v25100002/1Z1Zre9znyFTtA7UhkaDYRCM3lW-4ovWKM6OSzHrRYc_Cs2dE-R7Ks.DEn5MWiQB1Hxlu3oq-A-19201080dayvext_side1080.png?v=638651938720000000",
+                    "view_point": "exterior_side"
+                },
+                {
+                    "order": 1,
+                    "type": "REAL",
+                    "url": "https://mspgwlivestorage.blob.core.windows.net/renders/cables/kodiaq_PS_cable_charging_dark_v1.png",
+                    "view_point": "exterior_side"
+                }
+            ],
+            "view_type": "CHARGING_DARK"
+        },
+        {
+            "layers": [
+                {
+                    "order": 0,
+                    "type": "REAL",
+                    "url": "https://iprenders.blob.core.windows.net/baseps7v25100002/1Z1Zre9znyFTtA7UhkaDYRCM3lW-4ovWKM6OSzHrRYc_Cs2dE-R7Ks.DEn5MWiQB1Hxlu3oq-A-19201080dayvext_side1080.png?v=638651938720000000",
+                    "view_point": "exterior_side"
+                },
+                {
+                    "order": 1,
+                    "type": "REAL",
+                    "url": "https://mspgwlivestorage.blob.core.windows.net/renders/cables/kodiaq_PS_cable_plugged_in_light_v1.png",
+                    "view_point": "exterior_side"
+                }
+            ],
+            "view_type": "PLUGGED_IN_LIGHT"
+        },
+        {
+            "layers": [
+                {
+                    "order": 0,
+                    "type": "REAL",
+                    "url": "https://iprenders.blob.core.windows.net/baseps7v25100002/1Z1Zre9znyFTtA7UhkaDYRCM3lW-4ovWKM6OSzHrRYc_Cs2dE-R7Ks.DEn5MWiQB1Hxlu3oq-A-19201080dayvext_side1080.png?v=638651938720000000",
+                    "view_point": "exterior_side"
+                },
+                {
+                    "order": 1,
+                    "type": "REAL",
+                    "url": "https://mspgwlivestorage.blob.core.windows.net/renders/cables/kodiaq_PS_cable_plugged_in_dark_v1.png",
+                    "view_point": "exterior_side"
+                }
+            ],
+            "view_type": "PLUGGED_IN_DARK"
+        }
+    ],
+    "device_platform": "MBB_ODP",
+    "errors": null,
+    "license_plate": "6ST5026",
+    "mileage_in_km": 1898,
+    "name": "Kodiaq",
+    "primary_engine_range": {
+        "current_fuel_level_in_percent": 96,
+        "current_soc_in_percent": 96,
+        "engine_type": "diesel",
+        "remaining_range_in_km": 730
+    },
+    "renders": [
+        {
+            "order": 0,
+            "type": "REAL",
+            "url": "https://iprenders.blob.core.windows.net/baseps7v25100002/1Z1Zre9znyFTtA7UhkaDYRCM3lW-4ovWKM6OSzHrRYc_Cs2dE-R7Ks.DEn5MWiQB1Hxlu3oq-A-19201080dayvext_side1080.png?v=638651938720000000",
+            "view_point": "exterior_side"
+        },
+        {
+            "order": 1,
+            "type": "REAL",
+            "url": "https://ip-modcwp.azureedge.net/modcwpps7v25100002/1Z1Zre9znyFTtA7UhkaDYRCM3lW-4ovWKM6OSzHrRYc_Cs2dE-R7Ks.DEn5MWiQB1Hxlu3oq-A-1920658dayvext_side1080.png?v=638651938730000000",
+            "view_point": "garage_l"
+        },
+        {
+            "order": 2,
+            "type": "REAL",
+            "url": "https://ip-modcwp.azureedge.net/modcwpps7v25100002/1Z1Zre9znyFTtA7UhkaDYRCM3lW-4ovWKM6OSzHrRYc_Cs2dE-R7Ks.DEn5MWiQB1Hxlu3oq-A-700390dayvext_front1080.png?v=638651938720000000",
+            "view_point": "main"
+        }
+    ],
+    "secondary_engine_range": null,
+    "service_partner": null,
+    "software_version": null,
+    "specification": {
+        "battery": null,
+        "body": "SUV",
+        "engine": {
+            "capacity_in_liters": 2.0,
+            "power": 142,
+            "type": "TDI"
+        },
+        "manufacturing_date": "2024-09-13",
+        "max_charging_power": null,
+        "model": "Kodiaq",
+        "model_year": "2025",
+        "system_code": "UNKNOWN",
+        "system_model_id": "PS7D6Z",
+        "title": "Škoda Kodiaq",
+        "trim_level": "Exclusive Selection"
+    },
+    "state": "ACTIVATED",
+    "total_range_in_km": 730,
+    "vin": "TMBLN9PS4ST013118",
+    "warning_lights": [
+        {
+            "category": "ASSISTANCE",
+            "defects": []
+        },
+        {
+            "category": "COMFORT",
+            "defects": []
+        },
+        {
+            "category": "BRAKE",
+            "defects": []
+        },
+        {
+            "category": "ENGINE",
+            "defects": []
+        },
+        {
+            "category": "LIGHTING",
+            "defects": []
+        },
+        {
+            "category": "TIRE",
+            "defects": []
+        },
+        {
+            "category": "OTHER",
+            "defects": []
+        }
+    ],
+    "workshop_mode_enabled": false
+}

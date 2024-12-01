@@ -1,0 +1,22 @@
+{
+  "name": "MMM-MySkoda",
+  "version": "1.0.0",
+  "description": "Magic Mirror Module to display data from MySkoda for your car.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OPlevka/MMM-MySkoda"
+  },
+  "main": "MMM-MySkoda.js",
+  "scripts": {
+    "start": "node index.js",
+    "preinstall": "echo 'Installing Python Dependencies...' && pip install -r requirements.txt --no-warn-script-location"
+  },
+  "author": "Ondrej Plevka",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.7",
+    "qs": "^6.7.0"
+  }
+}

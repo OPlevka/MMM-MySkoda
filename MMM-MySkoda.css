@@ -1,0 +1,49 @@
+.MMM-MySkoda .skoda-container {
+  /*width: 280px;*/
+  line-height: 1.50;
+  font-size: 20px;
+  padding: 0;
+  position: relative;
+  text-align: left;
+}
+
+
+.MMM-MySkoda .skoda-container img {
+  width: auto;
+  height: auto;
+  max-width: 300px;
+  max-height: 200px;
+}
+
+
+.MMM-MySkoda .skoda-container .fas {
+  width: 30px;
+  text-align: center;
+}
+
+.MMM-MySkoda .skoda-container .locked {
+  width: 30px;
+}
+
+.MMM-MySkoda .skoda-container .plugged {
+  margin-left: -3px;
+  margin-right: -3px;
+}
+
+.MMM-MySkoda .skoda-container .mileage {
+  float: right;
+}
+
+.MMM-MySkoda .skoda-container .fuelRange {
+  float: right;
+}
+
+.MMM-MySkoda .skoda-container .updated {
+  font: bold 16px Helvetica, Sans-Serif;
+  white-space: nowrap;
+  margin-left: -3px;
+}
+
+.MMM-MySkoda .skoda-container.spacer {
+  height: 45px;
+}
